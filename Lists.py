@@ -1,0 +1,16 @@
+l1 = [2,7,11,1,100]
+l1.sort()
+print(l1)
+l1.reverse()
+print(l1)
+print(max(l1))
+print(min(l1))
+l1.append(20)
+l1.insert(1,19)
+print(l1)
+l1.remove(19)
+print(l1)
+l1.pop()
+print(l1)
+l1.count(100)
+
