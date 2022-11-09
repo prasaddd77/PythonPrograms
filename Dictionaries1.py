@@ -28,7 +28,7 @@
 #         print("Overtime hours are zero. No extra salary added.")
 
 
-x = (1,1,2,3,2,4,5,4,6,7)
+x = (1,1,2,3,2,4,5,4,6,7,10)
 print(type(x))
 y=tuple(set(x))
 d={}
